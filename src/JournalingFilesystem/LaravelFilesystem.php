@@ -2,7 +2,7 @@
 
 namespace JournalingFilesystem;
 
-class LaraveFilesystem extends \Illuminate\Filesystem\Filesystem implements FilesystemInterface
+class LaravelFilesystem extends \Illuminate\Filesystem\Filesystem implements FilesystemInterface
 {
     
 }
